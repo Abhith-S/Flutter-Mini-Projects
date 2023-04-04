@@ -1,4 +1,4 @@
-# day1_restaurant
+# day1_restaurant_picker
 
 A new Flutter project.
 
