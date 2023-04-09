@@ -1,3 +1,3 @@
-# Flutter projects
+# Flutter Mini Projects
 
-mini flutter projects
+
